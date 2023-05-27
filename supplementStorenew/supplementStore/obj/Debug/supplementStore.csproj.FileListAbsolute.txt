@@ -1,0 +1,54 @@
+D:\Projects2022\supplementStore\supplementStore\bin\Debug\supplementStore.exe.config
+D:\Projects2022\supplementStore\supplementStore\bin\Debug\supplementStore.exe
+D:\Projects2022\supplementStore\supplementStore\bin\Debug\supplementStore.pdb
+D:\Projects2022\supplementStore\supplementStore\obj\Debug\supplementStore.csprojResolveAssemblyReference.cache
+D:\Projects2022\supplementStore\supplementStore\obj\Debug\supplementStore.MainForm.resources
+D:\Projects2022\supplementStore\supplementStore\obj\Debug\supplementStore.Properties.Resources.resources
+D:\Projects2022\supplementStore\supplementStore\obj\Debug\supplementStore.csproj.GenerateResource.Cache
+D:\Projects2022\supplementStore\supplementStore\obj\Debug\supplementStore.exe
+D:\Projects2022\supplementStore\supplementStore\obj\Debug\supplementStore.pdb
+D:\Projects2022\supplementStore\supplementStore\obj\Debug\supplementStore.ItemsManagement.resources
+D:\Projects2022\supplementStore\supplementStore\obj\Debug\supplementStore.NewItem.resources
+D:\Projects2022\supplementStore\supplementStore\obj\Debug\supplementStore.Login.resources
+C:\Users\omars\OneDrive\الصور\project\supplementStore\supplementStore\bin\Debug\supplementStore.exe.config
+C:\Users\omars\OneDrive\الصور\project\supplementStore\supplementStore\bin\Debug\supplementStore.exe
+C:\Users\omars\OneDrive\الصور\project\supplementStore\supplementStore\bin\Debug\supplementStore.pdb
+C:\Users\omars\OneDrive\الصور\project\supplementStore\supplementStore\obj\Debug\supplementStore.csproj.AssemblyReference.cache
+C:\Users\omars\OneDrive\الصور\project\supplementStore\supplementStore\obj\Debug\supplementStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\omars\OneDrive\الصور\project\supplementStore\supplementStore\obj\Debug\supplementStore.ItemsManagement.resources
+C:\Users\omars\OneDrive\الصور\project\supplementStore\supplementStore\obj\Debug\supplementStore.Login.resources
+C:\Users\omars\OneDrive\الصور\project\supplementStore\supplementStore\obj\Debug\supplementStore.MainForm.resources
+C:\Users\omars\OneDrive\الصور\project\supplementStore\supplementStore\obj\Debug\supplementStore.NewItem.resources
+C:\Users\omars\OneDrive\الصور\project\supplementStore\supplementStore\obj\Debug\supplementStore.Properties.Resources.resources
+C:\Users\omars\OneDrive\الصور\project\supplementStore\supplementStore\obj\Debug\supplementStore.csproj.GenerateResource.cache
+C:\Users\omars\OneDrive\الصور\project\supplementStore\supplementStore\obj\Debug\supplementStore.csproj.CoreCompileInputs.cache
+C:\Users\omars\OneDrive\الصور\project\supplementStore\supplementStore\obj\Debug\supplementStore.exe
+C:\Users\omars\OneDrive\الصور\project\supplementStore\supplementStore\obj\Debug\supplementStore.pdb
+C:\Users\omars\OneDrive\الصور\project\supplementStore1\supplementStore\bin\Debug\supplementStore.exe.config
+C:\Users\omars\OneDrive\الصور\project\supplementStore1\supplementStore\bin\Debug\supplementStore.exe
+C:\Users\omars\OneDrive\الصور\project\supplementStore1\supplementStore\bin\Debug\supplementStore.pdb
+C:\Users\omars\OneDrive\الصور\project\supplementStore1\supplementStore\obj\Debug\supplementStore.csproj.AssemblyReference.cache
+C:\Users\omars\OneDrive\الصور\project\supplementStore1\supplementStore\obj\Debug\supplementStore.csproj.SuggestedBindingRedirects.cache
+C:\Users\omars\OneDrive\الصور\project\supplementStore1\supplementStore\obj\Debug\supplementStore.ItemsManagement.resources
+C:\Users\omars\OneDrive\الصور\project\supplementStore1\supplementStore\obj\Debug\supplementStore.Login.resources
+C:\Users\omars\OneDrive\الصور\project\supplementStore1\supplementStore\obj\Debug\supplementStore.MainForm.resources
+C:\Users\omars\OneDrive\الصور\project\supplementStore1\supplementStore\obj\Debug\supplementStore.NewItem.resources
+C:\Users\omars\OneDrive\الصور\project\supplementStore1\supplementStore\obj\Debug\supplementStore.Properties.Resources.resources
+C:\Users\omars\OneDrive\الصور\project\supplementStore1\supplementStore\obj\Debug\supplementStore.csproj.GenerateResource.cache
+C:\Users\omars\OneDrive\الصور\project\supplementStore1\supplementStore\obj\Debug\supplementStore.csproj.CoreCompileInputs.cache
+C:\Users\omars\OneDrive\الصور\project\supplementStore1\supplementStore\obj\Debug\supplementStore.exe
+C:\Users\omars\OneDrive\الصور\project\supplementStore1\supplementStore\obj\Debug\supplementStore.pdb
+A:\project event\supplementStore1\supplementStore\bin\Debug\supplementStore.exe.config
+A:\project event\supplementStore1\supplementStore\bin\Debug\supplementStore.exe
+A:\project event\supplementStore1\supplementStore\bin\Debug\supplementStore.pdb
+A:\project event\supplementStore1\supplementStore\obj\Debug\supplementStore.csproj.AssemblyReference.cache
+A:\project event\supplementStore1\supplementStore\obj\Debug\supplementStore.csproj.SuggestedBindingRedirects.cache
+A:\project event\supplementStore1\supplementStore\obj\Debug\supplementStore.ItemsManagement.resources
+A:\project event\supplementStore1\supplementStore\obj\Debug\supplementStore.Login.resources
+A:\project event\supplementStore1\supplementStore\obj\Debug\supplementStore.MainForm.resources
+A:\project event\supplementStore1\supplementStore\obj\Debug\supplementStore.NewItem.resources
+A:\project event\supplementStore1\supplementStore\obj\Debug\supplementStore.Properties.Resources.resources
+A:\project event\supplementStore1\supplementStore\obj\Debug\supplementStore.csproj.GenerateResource.cache
+A:\project event\supplementStore1\supplementStore\obj\Debug\supplementStore.csproj.CoreCompileInputs.cache
+A:\project event\supplementStore1\supplementStore\obj\Debug\supplementStore.exe
+A:\project event\supplementStore1\supplementStore\obj\Debug\supplementStore.pdb
